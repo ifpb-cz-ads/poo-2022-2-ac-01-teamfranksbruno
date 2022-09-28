@@ -1,3 +1,5 @@
+package atividade.atividade.src;
+
 public class questao6 {
     public static void main(String[] args) throws Exception {
         System.out.println("Franks");
