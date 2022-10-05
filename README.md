@@ -10,7 +10,7 @@ JRE é o ambiente que possui os recursos para executar os programas em java, ele
 
 ### 3. Crie um programa Java que imprima o seguinte texto “Terminei a primeira aula com um programa Java!”.
 
-O programa está na pasta "atividade" dentro de "src" nesse repositório.
+O programa se chama "questao3" e está no repositório.
 
 ### 4. Compile o programa desenvolvido no exercício anterior. A seguir apague o arquivo .class gerado e tente executar o programa. O que aconteceu?
 
@@ -22,7 +22,7 @@ O programa avisa que o arquivo não é executável.
 
 ### 6. Crie um programa Java para imprimir duas linhas de texto usando duas linhas de código “System.out”, onde aparecerá o seu nome na primeira linha e na segunda linha aparecerá o time para o qual você torce.
 
-O programa está na pasta "atividade" dentro de "src" nesse repositório.
+O programa se chama "questao6" e está no repositório.
 
 ### 7. Experimente escrever todo o programa anterior em maiúsculo, compile e execute. O que aconteceu?
 
